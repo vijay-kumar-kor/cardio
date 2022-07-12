@@ -83,7 +83,7 @@ For classification problems, a class label is assigned on the basis of a majorit
   <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
-< Apoorva KR > | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+< Manoj Korukonda > | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
 
 <p> <i> Contact me for Data Science Project Collaborations</i></p>
 
