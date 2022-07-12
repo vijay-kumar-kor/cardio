@@ -6,12 +6,10 @@
 
    ![ijcc-4-103-003](https://user-images.githubusercontent.com/109129303/178421226-f434306d-d081-4e1c-8df3-3c4fc109322a.gif)
    
-   ![heartfailure](https://user-images.githubusercontent.com/109129303/178432514-7ccf4bcc-15c3-4d80-954b-c27f38b6ea14.gif)
-
+  
 ![ijcc-4-103-0034](https://user-images.githubusercontent.com/109129303/178432890-760ea0dd-2a44-4fd5-88a5-9aab3c7ae7c9.gif)
 
 
-![images](https://user-images.githubusercontent.com/109129303/178433293-eab6ecb2-3717-4677-abf9-2c7ae98f9ca9.png)
 
 
 
