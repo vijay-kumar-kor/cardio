@@ -11,6 +11,9 @@
 ![ijcc-4-103-0034](https://user-images.githubusercontent.com/109129303/178432890-760ea0dd-2a44-4fd5-88a5-9aab3c7ae7c9.gif)
 
 
+![images](https://user-images.githubusercontent.com/109129303/178433293-eab6ecb2-3717-4677-abf9-2c7ae98f9ca9.png)
+
+
 
 <p>Built scalable machine learning model that alarms patient with 10 year risk of coronary heart disease and enables timely treatment to prevent it</p>
 
