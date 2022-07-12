@@ -7,8 +7,6 @@
    ![ijcc-4-103-003](https://user-images.githubusercontent.com/109129303/178421226-f434306d-d081-4e1c-8df3-3c4fc109322a.gif)
    
   
-![ijcc-4-103-0034](https://user-images.githubusercontent.com/109129303/178432890-760ea0dd-2a44-4fd5-88a5-9aab3c7ae7c9.gif)
-
 
 
 
