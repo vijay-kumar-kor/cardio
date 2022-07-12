@@ -16,7 +16,7 @@
 <h4>Executable Files:</h4>
 <ul>
   
-    <li><b>Cardiovascular_Risk_Prediction.ipynb</b> - Includes all information on imputing missing values, outlier detection and Feature engineering process and Exploratory data analysis.</li>
+  <li><b>Cardiovascular_Risk_Prediction.ipynb</b> - Includes all information on imputing missing values, outlier detection and Feature engineering process and Exploratory data analysis.</li>
   <li><b>Model_performance_cardiovascular (1).ipynb</b> -  Contains information on model performance of the classification algorithms on unseen data and model performance after hyperparameter tuning using random search cv</li>
 </ul>
 
