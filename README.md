@@ -83,7 +83,7 @@ For classification problems, a class label is assigned on the basis of a majorit
   
   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
   
-  <!-- CREDITS -->
+  
 <h2 id="credits"> :scroll: Credits</h2>
 
 < Manoj Korukonda > | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
@@ -113,8 +113,8 @@ For classification problems, a class label is assigned on the basis of a majorit
       <p>Available:https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning /</p>
   </li>
     </li>
-  <li><p>End to end Case Study: Machine learning prediction in cardiovascular diseases'. [Online].</p>
-      <p>Available:https://towardsdatascience.com/end-to-end-case-study-bike-sharing-demand-dataset-53201926c8db</p>
+  <li><p>End to end Case Study: '. [Online].</p>
+      <p>Available:https://www.analyticsvidhya.com/blog/2021/01/exploratory-data-analysis-on-nyc-taxi-trip-duration-dataset/</p>
   </li>
   
 </ul>
