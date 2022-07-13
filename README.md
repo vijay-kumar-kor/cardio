@@ -113,8 +113,6 @@ For classification problems, a class label is assigned on the basis of a majorit
       <p>Available:https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning /</p>
   </li>
     </li>
-  <li><p>Case Study: Bike-sharing demand prediction'. [Online].</p>
-      <p>Available:  </li>
   <li><p>End to end Case Study: Machine learning prediction in cardiovascular diseases'. [Online].</p>
       <p>Available:https://towardsdatascience.com/end-to-end-case-study-bike-sharing-demand-dataset-53201926c8db</p>
   </li>
